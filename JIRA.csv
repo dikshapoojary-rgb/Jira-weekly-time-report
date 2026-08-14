@@ -1,0 +1,40 @@
+﻿Issue Type,Summary,Assignee,Assignee Id,Status,Σ Original Estimate,Σ Time Spent,Updated
+Bug,Headcheck Release Sanity issues,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Task,Metabase extract from Feb until deployment,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Bug,Kids symptoms are not displaying the correct advice,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Bug,Symptom Advice button is not showing up in the follow up period,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Bug,Incorrect Transition from HR->LR/LR->HR for adult and child,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Task,Copy Change - Client Approved + UAT feedback,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Story,UAT Feedback- Part 2,Diksha Poojary,712020:981abab7-9fef-420f-9158-e2c63080da65,Done,,,06/Jul/26 6:38 PM
+Bug,The recovery program end and follow-up question should be created based on the incident date instead of the recovery start date,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Task,The addition of ‘access this information any time on the front page of the app’ at the end of the advice provided.,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,14400,,06/Jul/26 6:38 PM
+Task,Change to following ‘title’ lines on the READ tasks for symptom-specific advice,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,7200,,06/Jul/26 6:38 PM
+Bug,What is the age of your child field accepts characters.,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,,,06/Jul/26 6:38 PM
+Task,Support helpline is missing on a Mental health advice,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Task,Estimate effort for additions - UAT feedback,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Bug,Pre Injury State label is missing for Child in Incident table,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,7200,,06/Jul/26 6:38 PM
+Task,Symptom Advice button should only be shown to mTBI participants,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,7200,,06/Jul/26 6:38 PM
+Bug,Adult score is displayed for child in metabase,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,10800,,06/Jul/26 6:38 PM
+Bug,Incorrect scoring in cluster group,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,7200,,06/Jul/26 6:38 PM
+Bug,Unable to create an account on Canary app,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Task,UAT Feedback for Web,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,10800,,06/Jul/26 6:38 PM
+Bug,No validation is displayed for Please state field,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,7200,,06/Jul/26 6:38 PM
+Bug,Learn more link (in green) is displayed only in iOS device on main general page,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,14400,,06/Jul/26 6:38 PM
+Bug,Android App closes if clicked on Next button on Alarm page,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,14400,,06/Jul/26 6:38 PM
+Bug,Android App closes after Okay button on End Recovery popup,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,14400,,06/Jul/26 6:38 PM
+Task,Prod deployment,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Bug,iOS/Android login error,Ahmed Raza,6021d2a94fb89e0070aca740,Done,,,06/Jul/26 6:38 PM
+Bug,FE: Dependent question not showing up when navigating back and forth.,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,14400,,06/Jul/26 6:38 PM
+Task,Staging and Canary Deployments,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Story,"Add Total & Cluster Scores (RPQ, PCSI, ESSI, Resilience)",Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,115200,,06/Jul/26 6:38 PM
+Story,HIGH RISK ADVICE,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,72000,,06/Jul/26 6:38 PM
+Story,"HIGH RISK, DAY 7-28",Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,86400,,06/Jul/26 6:38 PM
+Story,Baseline risk stratification,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,57600,,06/Jul/26 6:38 PM
+Task,Android: App must target Android 15 (API level 35) or higher,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,14400,,06/Jul/26 6:38 PM
+Task,DB update-Incident date validation to prevent >14 day entries,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,,,06/Jul/26 6:38 PM
+Story,Update AUS-mTBI study enrolment questions,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,144000,,06/Jul/26 6:38 PM
+Task,Delete participant account,Ahmed Raza,6021d2a94fb89e0070aca740,Done,,,06/Jul/26 6:38 PM
+Story,Other design changes for study enrolment,Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,36000,,06/Jul/26 6:38 PM
+Story,"LOW RISK, DAY 7: Additional advice as 'READ' task with general psychoeducation (same advice for children and adults)",Sarvesh Chaudhari,712020:a77c3f97-2ae5-4f0d-bcf8-b1dccda79ccd,Done,216000,,06/Jul/26 6:38 PM
+Story,Change the end recovery program to follow up transition screen,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,14400,,06/Jul/26 6:38 PM
+Story,Update wording on AUS-mTBI study opt-in screen,Bilal Raza,5efc35ca25cebd0bb6bea9a0,Done,14400,,06/Jul/26 6:38 PM
