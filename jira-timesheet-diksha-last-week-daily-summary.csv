@@ -1,0 +1,7 @@
+Date,Day,Logged Hours,Target Hours (7h/day),Pending Hours,Billable Hours,Non Billable Hours
+2026-07-07,Monday,1.00,7.00,6.00,0.00,1.00
+2026-07-08,Tuesday,2.00,7.00,5.00,1.00,1.00
+2026-07-09,Wednesday,1.50,7.00,5.50,0.00,1.50
+2026-07-10,Thursday,1.00,7.00,6.00,0.00,1.00
+2026-07-11,Friday,2.50,7.00,4.50,1.50,1.00
+WEEK TOTAL,,8.00,35.00,27.00,2.50,5.50
